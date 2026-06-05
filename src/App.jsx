@@ -85,6 +85,7 @@ export const App = () => {
       
       case "next":
         setText("　");
+        trainFlgRef.current = false;
         musicNumRef.current = Math.floor(Math.random()*7);
         playMusic(sounds[musicNumRef.current][1]);
         break;
@@ -140,7 +141,7 @@ export const App = () => {
         <button onClick={()=>{onClickButton("stop")}} disabled={!stopBtnState}>ストップ</button>
       </div>
       <p className="mb-0" > {text}</p>
-      {attemptNum>0 ? <p>正解率{correctNum/attemptNum*100}% 正解{correctNum}/試行回数{attemptNum}</p>:<p>　</p>}
+      {attemptNum>0 ? <p>正解率{(correctNum/attemptNum*100).toFixed(1)}% 正解{correctNum}/試行回数{attemptNum}</p>:<p>　</p>}
       <div>
         <button onClick={()=>{onClickButton("repeat")}} disabled={!repeatBtnState}>繰り返す</button>
         <button onClick={()=>{onClickButton("next")}} disabled={!nextBtnState}>次を聞く</button>
