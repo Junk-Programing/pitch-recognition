@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Junk-Programing/static/css/main.5480f1c7.css",
-    "main.js": "/Junk-Programing/static/js/main.c4fe45bb.js",
-    "static/js/453.bfd2b679.chunk.js": "/Junk-Programing/static/js/453.bfd2b679.chunk.js",
-    "static/media/pitch_kun.png": "/Junk-Programing/static/media/pitch_kun.b4923794a362d8fc4886.png",
-    "static/media/si.mp3": "/Junk-Programing/static/media/si.7506565503240657586c.mp3",
-    "static/media/fa.mp3": "/Junk-Programing/static/media/fa.a734541814d95b7efd07.mp3",
-    "static/media/so.mp3": "/Junk-Programing/static/media/so.765ee6ee5c7824fb2201.mp3",
-    "static/media/re.mp3": "/Junk-Programing/static/media/re.bfdeb66ea2b9f4001282.mp3",
-    "static/media/la.mp3": "/Junk-Programing/static/media/la.44df8e2b185f9f5bd195.mp3",
-    "static/media/mi.mp3": "/Junk-Programing/static/media/mi.5eb2f61c516fb19e6747.mp3",
-    "static/media/do.mp3": "/Junk-Programing/static/media/do.c4960c88b9f4b5682a2b.mp3",
-    "index.html": "/Junk-Programing/index.html",
-    "main.5480f1c7.css.map": "/Junk-Programing/static/css/main.5480f1c7.css.map",
-    "main.c4fe45bb.js.map": "/Junk-Programing/static/js/main.c4fe45bb.js.map",
-    "453.bfd2b679.chunk.js.map": "/Junk-Programing/static/js/453.bfd2b679.chunk.js.map"
+    "main.css": "/pitch-recognition/static/css/main.5480f1c7.css",
+    "main.js": "/pitch-recognition/static/js/main.331a6bfd.js",
+    "static/js/453.bfd2b679.chunk.js": "/pitch-recognition/static/js/453.bfd2b679.chunk.js",
+    "static/media/pitch_kun.png": "/pitch-recognition/static/media/pitch_kun.b4923794a362d8fc4886.png",
+    "static/media/si.mp3": "/pitch-recognition/static/media/si.7506565503240657586c.mp3",
+    "static/media/fa.mp3": "/pitch-recognition/static/media/fa.a734541814d95b7efd07.mp3",
+    "static/media/so.mp3": "/pitch-recognition/static/media/so.765ee6ee5c7824fb2201.mp3",
+    "static/media/re.mp3": "/pitch-recognition/static/media/re.bfdeb66ea2b9f4001282.mp3",
+    "static/media/la.mp3": "/pitch-recognition/static/media/la.44df8e2b185f9f5bd195.mp3",
+    "static/media/mi.mp3": "/pitch-recognition/static/media/mi.5eb2f61c516fb19e6747.mp3",
+    "static/media/do.mp3": "/pitch-recognition/static/media/do.c4960c88b9f4b5682a2b.mp3",
+    "index.html": "/pitch-recognition/index.html",
+    "main.5480f1c7.css.map": "/pitch-recognition/static/css/main.5480f1c7.css.map",
+    "main.331a6bfd.js.map": "/pitch-recognition/static/js/main.331a6bfd.js.map",
+    "453.bfd2b679.chunk.js.map": "/pitch-recognition/static/js/453.bfd2b679.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5480f1c7.css",
-    "static/js/main.c4fe45bb.js"
+    "static/js/main.331a6bfd.js"
   ]
 }
