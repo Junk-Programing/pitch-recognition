@@ -15,7 +15,7 @@ https://junk-programing.github.io/pitch-recognition/#page-top
 
 リポジトリをクローンします\
 \
-git clone https://github.com/Junk-Programing/pitch-recognition.git\
+git clone https://github.com/Junk-Programing/pitch-recognition.git \
 \
 コマンドにより、pitch-recognitionフォルダ直下で下記のコマンドを使い、必要なモジュールをインストールします。\
 \
