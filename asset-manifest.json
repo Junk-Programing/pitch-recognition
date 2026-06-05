@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pitch-recognition/static/css/main.5480f1c7.css",
-    "main.js": "/pitch-recognition/static/js/main.331a6bfd.js",
+    "main.js": "/pitch-recognition/static/js/main.1a857ab7.js",
     "static/js/453.bfd2b679.chunk.js": "/pitch-recognition/static/js/453.bfd2b679.chunk.js",
     "static/media/pitch_kun.png": "/pitch-recognition/static/media/pitch_kun.b4923794a362d8fc4886.png",
     "static/media/si.mp3": "/pitch-recognition/static/media/si.7506565503240657586c.mp3",
@@ -13,11 +13,11 @@
     "static/media/do.mp3": "/pitch-recognition/static/media/do.c4960c88b9f4b5682a2b.mp3",
     "index.html": "/pitch-recognition/index.html",
     "main.5480f1c7.css.map": "/pitch-recognition/static/css/main.5480f1c7.css.map",
-    "main.331a6bfd.js.map": "/pitch-recognition/static/js/main.331a6bfd.js.map",
+    "main.1a857ab7.js.map": "/pitch-recognition/static/js/main.1a857ab7.js.map",
     "453.bfd2b679.chunk.js.map": "/pitch-recognition/static/js/453.bfd2b679.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5480f1c7.css",
-    "static/js/main.331a6bfd.js"
+    "static/js/main.1a857ab7.js"
   ]
 }
